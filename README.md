@@ -16,7 +16,7 @@ Busco iniciar mi carrera como **Desarrollador de Software Junior**, con un inter
 
 - 👨‍💻 Actualmente desarrollando proyectos personales y finalizando mis estudios.
 - 🌱 Aprendiendo más sobre arquitecturas de microservicios y testing automatizado.
-- 💬 ¡Abierto a conectar y explorar oportunidades laborales.!
+- 💬 ¡Abierto a conectar y explorar oportunidades laborales!
 
 ## 🛠️ Habilidades y Tecnologías
 
